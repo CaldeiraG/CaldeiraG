@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my Profile
 
-![](https://visitor-badge.laobi.icu/badge?page_id=CaldeiraG.CaldeiraG) [![Github](https://img.shields.io/github/followers/CaldeiraG?label=Follow&style=social)](https://github.com/CaldeiraG) [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E13VAZ2) 
+![](https://visitor-badge.laobi.icu/badge?page_id=CaldeiraG.CaldeiraG) [![Github](https://img.shields.io/github/followers/CaldeiraG?label=Follow&style=social)](https://github.com/CaldeiraG)
 ------
 
 ##### I'm mainly working with:
@@ -31,5 +31,5 @@
 -   **website:** https://caldeirag.xyz (although nothing useful there atm)
 -   ![](https://gh-shield.onlytunes.uk/api/shield/226453388039028736?theme=discord)
 
-
+ [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E13VAZ2) 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CaldeiraG&show_icons=true&count_private=true&theme=blue-green) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaldeiraG&layout=compact&theme=blue-green)](https://github.com/CaldeiraG/github-readme-stats)
