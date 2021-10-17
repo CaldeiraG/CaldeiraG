@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my Profile
 
-![](https://visitor-badge.laobi.icu/badge?page_id=CaldeiraG.CaldeiraG) [![Github](https://img.shields.io/github/followers/CaldeiraG?label=Follow&style=social)](https://github.com/CaldeiraG)
+![](https://visitor-badge.laobi.icu/badge?page_id=CaldeiraG.CaldeiraG) [![Github](https://img.shields.io/github/followers/CaldeiraG?label=Follow&style=social)](https://github.com/CaldeiraG)<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'E1E13VAZ2');kofiwidget2.draw();</script> 
 ------
 
 ##### I'm mainly working with:
