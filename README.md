@@ -32,4 +32,5 @@
 -   ![](https://gh-shield.onlytunes.uk/api/shield/226453388039028736?theme=discord)
 
  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E13VAZ2) 
+ 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CaldeiraG&show_icons=true&count_private=true&theme=blue-green) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaldeiraG&layout=compact&theme=blue-green)](https://github.com/CaldeiraG/github-readme-stats)
