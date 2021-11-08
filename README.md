@@ -17,9 +17,6 @@
 -   MopsReloaded ![](https://gh-shield.onlytunes.uk/api/shield/bot/769997398037495839?style=flat-square) [![Invite Image](https://img.shields.io/badge/Invite-Invite%20the%20bot-blue)](https://discord.com/oauth2/authorize?client_id=769997398037495839&permissions=271969344&scope=bot)
 -   Some random Discord bot as a template for new DJS developers
 
-### ⌛ I'm soon to be working on
--   
-
 ### 📧How to reach me
 -   **email:** cal@caldeirag.xyz
 -   **website:** https://caldeirag.xyz (although nothing useful there atm)
