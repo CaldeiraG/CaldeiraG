@@ -1,6 +1,6 @@
 ### Hello there, welcome to my GitHub profile!
 
-![](https://visitor-badge.laobi.icu/badge?page_id=CaldeiraG.CaldeiraG) [![Github](https://img.shields.io/github/followers/CaldeiraG?label=Follow&style=social)](https://github.com/CaldeiraG)
+![](https://visitor-badge.laobi.icu/badge?page_id=CaldeiraG.CaldeiraG) [![Github](https://img.shields.io/github/followers/CaldeiraG?label=Follow&style=social)](https://github.com/CaldeiraG) [![wakatime](https://wakatime.com/badge/user/0c2eb4e9-64a3-4002-8eb0-dea543a982e6.svg)](https://wakatime.com/@0c2eb4e9-64a3-4002-8eb0-dea543a982e6)
 ------
 
 ##### I'm mainly working with:
