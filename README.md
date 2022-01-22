@@ -24,4 +24,7 @@
 -   **website:** https://caldeirag.xyz (although nothing useful there atm)
 -   ![](https://gh-shield.onlytunes.uk/api/shield/226453388039028736?theme=discord)
 
+[![Discord Presence](https://gh-profile.onlytunes.uk/api/226453388039028736
+                            )](https://discord.com/users/226453388039028736)
+
  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E13VAZ2) 
