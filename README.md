@@ -28,3 +28,6 @@
                             )](https://discord.com/users/226453388039028736)
 
  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E13VAZ2) 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=OnlyTunes&show_icons=true&count_private=true&theme=blue-green)
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=OnlyTunes&theme=blue-green)
