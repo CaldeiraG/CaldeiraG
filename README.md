@@ -16,7 +16,7 @@
 ### 🔭 I’m currently working on
 -   My website ![](https://img.shields.io/website?down_color=red&down_message=Offline&up_color=green&up_message=Online&url=https%3A%2F%2Fcaldeirag.xyz)
 -   Mops-Bot ![](https://gh-shield.onlytunes.uk/api/shield/bot/769997398037495839?style=flat-square) [![Invite Image](https://img.shields.io/badge/Invite-Invite%20the%20bot-blue)](https://discord.com/oauth2/authorize?client_id=769997398037495839&permissions=271969344&scope=bot)
--   [LibreTree](https://github.com/CaldeiraG/LibreTree) using ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) and [Vuetify](https://github.com/vuetifyjs/vuetify)
+-   [LibreTree](https://github.com/CaldeiraG/LibreTree) using ![Nuxt.js](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=%234FC08D) and [Vuetify](https://github.com/vuetifyjs/vuetify)
 - Stuff I guess
 
 ### 📧How to reach me
